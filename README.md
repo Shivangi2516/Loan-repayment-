@@ -2,7 +2,7 @@
 hey there👋
 
 
-Stating of Project-
+Starting of Project-
 
 
 Had a loan repayment file which contained loan amount and annual interest rate
