@@ -7,10 +7,12 @@ Starting of Project-
 
 Had a loan repayment file which contained loan amount and annual interest rate
 Created three new rows showing :-
+
+
  a.Monthly Payment (EMI)
  b.Total cost of loan
  c.Loan period in years
-
+                                                
 ............Formulas used...........
 
 For Monthly Payment-
