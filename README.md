@@ -9,11 +9,16 @@ Had a loan repayment file which contained loan amount and annual interest rate
 Created three new rows showing :-
 
 
+
  a.Monthly Payment (EMI)
  b.Total cost of loan
  c.Loan period in years
 
- ![Loan repayment](https://github.com/user-attachments/assets/669af113-d1c8-4ff6-b66f-755f8131c686)
+
+
+
+
+
                                                 
 ............Formulas used...........
 
