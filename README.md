@@ -8,13 +8,19 @@ Starting of Project-
 Had a loan repayment file which contained loan amount and annual interest rate
 Created three new rows showing :-
 
+//
 
 
  a.Monthly Payment (EMI)
+ 
  b.Total cost of loan
+ 
  c.Loan period in years
 
 
+//
+![Loan repayment ](https://github.com/user-attachments/assets/f92301c9-792b-49d6-a4b4-e187d2925d39)
+//
 
 
 
