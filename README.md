@@ -1,5 +1,10 @@
 # Loan-repayment file-
 hey there👋
+
+
+Stating of Project-
+
+
 Had a loan repayment file which contained loan amount and annual interest rate
 Created three new rows showing :-
  a.Monthly Payment (EMI)
